@@ -1,0 +1,3 @@
+interface:
+  display_name: "Scope-First Prompt Writing"
+  short_description: "Separate scope and write clear implementation prompts"
