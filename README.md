@@ -35,7 +35,7 @@ $scope-first-prompt-writingを使って、今回の実装範囲を整理して�
 ## 検証
 
 ```bash
-python3 /Users/katada/.codex/skills/.system/skill-creator/scripts/quick_validate.py .
+python3 "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-creator/scripts/quick_validate.py" .
 ```
 
 ## ライセンス
